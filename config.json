@@ -1,0 +1,10 @@
+{
+    "black_list": [
+        "www.ukr.net",
+        "www.youtube.com",
+        "www.google.com.ua"
+    ],
+    "server_ip": "127.0.0.1",
+    "outside_dns_server": "8.8.8.8",
+    "answer": "Forbidden address"
+}
